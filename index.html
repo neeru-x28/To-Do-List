@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.3.1/css/all.min.css" integrity="sha512-QeR2VH+lsBE5LSAe1Q5EnTBbe7XTBubt8dG93Y7gidSgdMCr8nVqKcfKAMyN96SV8KDbZVTDXChatu5G2KQGzg==" crossorigin="anonymous" referrerpolicy="no-referrer">
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
+    <title>To-Do List</title>
+</head>
+<body>
+    <div class="container">
+        <div class="todolistapp">
+            <h1>To-Do app</h1>
+            <div class="stat-container">
+                <div class="details">
+                    <h3>Keep it up </h3>
+                    <div id="progressbar">
+                        <div id="progress"></div>
+                    </div>
+                </div>
+                <div class="stats-number">
+                    <p id="numbers">0/0</p>
+                </div>
+            </div>
+             <form  class="textarea">
+                <input type="text" id="text-area" placeholder="Add new task...">
+                <button type="submit" id="add"><i class="fa-solid fa-plus"></i></button>
+            </form>
+               <div class="todo-container">
+
+                   <ul id="add-list">
+                   
+                   </ul>
+                   
+
+                       <img class="empty-img"   src="to-do.webp" alt="emptyimage" width="50px" height="50px">
+                   
+                   
+            </div>
+        </div>
+    </div>
+
+    <script src="scpt.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.9.3/dist/confetti.browser.min.js"></script>
+</body>
+</html>
