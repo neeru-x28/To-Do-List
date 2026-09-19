@@ -58,9 +58,11 @@ Through this project, I practiced:
 
 ## 📸 Preview
 
-![alt text](Screenshot_17-9-2026_223757_chatgpt.com.jpeg)
-![alt text](Screenshot_17-9-2026_222547_127.0.0.1.jpeg)
-![alt text](Screenshot_17-9-2026_222528_127.0.0.1.jpeg)
-![alt text](Screenshot_17-9-2026_222447_127.0.0.1.jpeg)
-![alt text](IMG_8352.PNG)# To-Do-List
-A JavaScript-based To-Do List app built to practice DOM manipulation, event handling, Local Storage, dynamic task management, progress tracking, and responsive web design.
+<img width="1624" height="773" alt="Screenshot_17-9-2026_223757_chatgpt com" src="https://github.com/user-attachments/assets/163082bd-f832-4d03-9480-689a9c0d2c7b" />
+<img width="1905" height="915" alt="Screenshot_17-9-2026_222547_127 0 0 1" src="https://github.com/user-attachments/assets/e888d77a-e458-43ac-a025-01a4c7b6e096" />
+<img width="1903" height="915" alt="Screenshot_17-9-2026_222447_127 0 0 1" src="https://github.com/user-attachments/assets/edbae151-485b-4f20-800b-3b338a535f61" />
+<img width="1902" height="914" alt="Screenshot_17-9-2026_222528_127 0 0 1" src="https://github.com/user-attachments/assets/2b7f1414-ca5c-4e70-8620-647bb2816f91" />
+<img width="1242" height="1882" alt="IMG_8352" src="https://github.com/user-attachments/assets/be0b3c15-f061-4d99-9800-984a62b6b148" />
+
+
+
